@@ -24,7 +24,7 @@ Data-Driven Decision Making: Informed policy development and resource management
 
 ####
 # Our creative team
-- Hadeel Alshahrani [@ihdil](https://github.com/ihdil) - - 
+- Hadeel Alshahrani [@ihdil](https://github.com/ihdil) - - hadeelsaadalshahrani@gmail.com 
 - Rahaf Mansour [@Raaf882](https://github.com/Raaf882) - - Rahafmansr@gmail.com
 - Majed Mosa - - majdmosaalshahrani@gmail.com
 - Remaz Faisal - - Remazfaisalalghamdi@gmail.com
