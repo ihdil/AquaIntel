@@ -1,4 +1,7 @@
 # AquaIntel
+
+![39c4be3f-b337-40f1-864d-483a37d6f28a](https://github.com/user-attachments/assets/785997ad-879c-41a5-bac5-8a356c2209d9)
+
 Our project, **'Marine Environment Monitoring,'** uses AI to detect waste in the sea and on beaches from satellite images. It alerts environmental agencies about critical areas, providing details on location and waste type, and offers recommendations to address the issue effectively.
 
 **'Project Goal:'**
