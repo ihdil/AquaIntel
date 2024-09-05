@@ -22,9 +22,9 @@ Efficient Response: Timely notification and targeted cleanup efforts.
 Reduced Environmental Impact: Minimization of the adverse effects of marine pollution on ecosystems and biodiversity.
 Data-Driven Decision Making: Informed policy development and resource management based on AI-generated insights.
 
-## **Hadeel an AI assistant**
-Try out our AI Assistant, Hadeel, which is designed to assist you with your questions and provide quick responses.
-- [Hadeel](https://shorturl.at/9QmJm)
+## **AI assistant**
+Try out our AI Assistant, which is designed to assist you with your questions and provide quick responses.
+- [AI assistant](https://shorturl.at/9QmJm)
 
 
 ####
